@@ -5,4 +5,5 @@ using namespace std;
 #include <iostream>
 long long len(string a);
 long long  translation2(string e);
+bool examination(string a);
 #endif // MIDDLE_H_INCLUDED
