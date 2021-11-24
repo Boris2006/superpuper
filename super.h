@@ -3,5 +3,5 @@
 using namespace std;
 #include <string>
 #include <iostream>
-
+long long len(string a);
 #endif // MIDDLE_H_INCLUDED
