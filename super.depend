@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1637828929 source:c:\users\Администратор\desktop\super\minus.cpp
+	"header.h"
+
+1637832759 c:\users\Администратор\desktop\super\header.h
+	<iostream>
+	<string>
+
+1637829018 source:c:\users\Администратор\desktop\super\main.cpp
+	"header.h"
+
+1637832759 source:c:\users\Администратор\desktop\super\trans.cpp
+	"header.h"
+
