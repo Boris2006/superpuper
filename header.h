@@ -5,5 +5,5 @@
 using namespace std;
 string oprst (string a);
 long long trans(char a);
-
+string trans2(int k);
 #endif // HEADER_H_INCLUDED
